@@ -1,0 +1,6 @@
+[
+  "scripts/test_sms.py::TestSms::()::test_add_receive_number",
+  "scripts/test_sms.py::TestSms::()::test_send_sms[aaa]",
+  "scripts/test_sms.py::TestSms::()::test_send_sms[bbb]",
+  "scripts/test_sms.py::TestSms::()::test_send_sms[ccc]"
+]

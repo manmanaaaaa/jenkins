@@ -1,0 +1,6 @@
+{
+  "scripts/test_sms.py::TestSms::()::test_add_receive_number": true,
+  "scripts/test_sms.py::TestSms::()::test_send_sms[aaa]": true,
+  "scripts/test_sms.py::TestSms::()::test_send_sms[bbb]": true,
+  "scripts/test_sms.py::TestSms::()::test_send_sms[ccc]": true
+}
